@@ -1,4 +1,4 @@
-# Administration Projects
+# Administration Projectss
 
 [![pipeline status](https://gitlab.com/mysite7215201/Administration/badges/main/pipeline.svg)](https://gitlab.com/mysite7215201/Administration/-/commits/main)
 
